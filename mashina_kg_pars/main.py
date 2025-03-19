@@ -24,32 +24,3 @@ for car in car_list:
     })
 with open('dp2.json', 'a') as file:
     json.dump(car_json_list,file,ensure_ascii=False,indent=4)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#     telephony.append({
-#         "Название":title,
-#         "Цена":price,
-#         "Фотография":link
-#     })
-
-# with open('dp1.json', 'a') as file:
-#     json.dump(telephony,file, ensure_ascii=False, indent=4)
