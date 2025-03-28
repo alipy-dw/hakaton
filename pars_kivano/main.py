@@ -1,5 +1,5 @@
-from bs4 import BeautifulSoup as bs 
-import requests 
+from bs4 import BeautifulSoup as bs
+import requests
 import json
 
 URL = 'https://www.kivano.kg/mobilnye-telefony'
